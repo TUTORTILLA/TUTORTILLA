@@ -1,4 +1,4 @@
-[ReadMe.md](https://github.com/user-attachments/files/35472407/ReadMe.md)
+
 ## BUENAS!! 👋
 # 💫 SOBRE MÍ:
 🧑 Estudiante de 1º DAW<br>🌱 Aprendiendo C#<br>⚡ Me gustan los videojuegos, desarrollo de software y la programación
