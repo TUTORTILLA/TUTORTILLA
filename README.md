@@ -17,6 +17,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=TUTORTILLA&icon=9&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- ⚡ Fun fact: ...
--->
