@@ -23,7 +23,7 @@
 
 * 🎓 **DAW:** Aprendiendo desarrollo web, diseño y bases de datos.
 * 🎮 **Videojuegos 3D:** Haciendo prototipos y juegos en C#.
-* 🧩 **Programación:** Practicando lógica, matrices y P.O.O. en mis repositorios.
+* 🧩 **Programación:** Actualmente aprendiendo los fundamentos de la POO en C#.
 * 🎥 **Contenido:** Subo avances y vídeos sobre lo que hago a YouTube en [@tito_dev](https://www.youtube.com/@tito_dev).
 
 ---
