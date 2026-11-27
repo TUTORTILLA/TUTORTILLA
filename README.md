@@ -34,9 +34,8 @@
 <table>
   <tr>
     <td width="45%" align="center">
-      <!-- Puedes cambiar esta imagen por una captura real de 45 Seconds -->
       <a href="https://titodev.itch.io/45-seconds" target="_blank">
-        <img src="https://placehold.co/600x340/1e1b4b/fef3c7?text=45+Seconds" width="100%" alt="45 Seconds" />
+        <img src="https://github.com/TUTORTILLA/TUTORTILLA/blob/main/nNQnha.png?raw=true" width="100%" alt="45 Seconds" />
       </a>
     </td>
     <td width="55%" valign="top">
