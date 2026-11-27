@@ -22,7 +22,7 @@
 ¡Buenas! Soy **Izan**, tengo **17 años** y estudio **DAW** (Desarrollo de Aplicaciones Web). Llevo alrededor de **1 año creando videojuegos** por mi cuenta y de momento he sacado **varios juegos** en Itch.io.
 
 * 🎓 **DAW:** Aprendiendo desarrollo web, diseño y bases de datos.
-* 🎮 **Videojuegos 3D:** Haciendo prototipos y juegos en C# (con uno gané la *Unpolished Jam #2*).
+* 🎮 **Videojuegos 3D:** Haciendo prototipos y juegos en C#.
 * 🧩 **Programación:** Practicando lógica, matrices y P.O.O. en mis repositorios.
 * 🎥 **Contenido:** Subo avances y vídeos sobre lo que hago a YouTube en [@tito_dev](https://www.youtube.com/@tito_dev).
 
