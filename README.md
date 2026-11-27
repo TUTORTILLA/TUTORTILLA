@@ -19,7 +19,7 @@
 <!-- ==================== SOBRE MÍ ==================== -->
 ## 👋 Sobre mí
 
-¡Buenas! Soy **Izan**, tengo **17 años** y estudio **DAW** (Desarrollo de Aplicaciones Web). Llevo alrededor de **1 año creando videojuegos** por mi cuenta y de momento he sacado **3 juegos** en Itch.io.
+¡Buenas! Soy **Izan**, tengo **17 años** y estudio **DAW** (Desarrollo de Aplicaciones Web). Llevo alrededor de **1 año creando videojuegos** por mi cuenta y de momento he sacado **varios juegos** en Itch.io.
 
 * 🎓 **DAW:** Aprendiendo desarrollo web, diseño y bases de datos.
 * 🎮 **Videojuegos 3D:** Haciendo prototipos y juegos en C# (con uno gané la *Unpolished Jam #2*).
