@@ -1,4 +1,3 @@
-<!-- ==================== HEADER ==================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,35:1e3a8a,70:7e22ce,100:fef3c7&height=200&section=header&text=Izan%20%7C%20TitoDev&fontSize=44&fontColor=FEF3C7&fontAlignY=38&desc=Estudiante%20de%20DAW%20%E2%80%A2%20Videojuegos%203D&descSize=17&descAlignY=58&descColor=E9D5FF" width="100%" alt="Banner TitoDev" />
 
@@ -16,7 +15,6 @@
 
 ---
 
-<!-- ==================== SOBRE MÍ ==================== -->
 ## 👋 Sobre mí
 
 ¡Buenas! Soy **Izan**, tengo **17 años** y estudio **DAW** (Desarrollo de Aplicaciones Web). Llevo alrededor de **1 año creando videojuegos** por mi cuenta y de momento he sacado **varios juegos** en Itch.io.
@@ -28,8 +26,7 @@
 
 ---
 
-<!-- ==================== JUEGO DESTACADO ==================== -->
-## 🎮 Juego destacado
+# 🎮 Juego destacado
 
 <table>
   <tr>
@@ -55,7 +52,6 @@
 
 ---
 
-<!-- ==================== EJERCICIOS Y CÓDIGO ==================== -->
 ## 💻 Ejercicios y prácticas
 
 Algunos repositorios donde subo prácticas de programación y lógica:
@@ -71,7 +67,6 @@ Algunos repositorios donde subo prácticas de programación y lógica:
 
 ---
 
-<!-- ==================== LENGUAJES ==================== -->
 ## 🛠️ Lenguajes que estoy aprendiendo
 
 <div align="center">
@@ -85,7 +80,6 @@ Algunos repositorios donde subo prácticas de programación y lógica:
 
 ---
 
-<!-- ==================== ESTADÍSTICAS ==================== -->
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
